@@ -32,7 +32,7 @@ The dashboard helps monitor:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Screenshot2026-05-13022110.png)
+![Dashboard Preview](Dashboard-March.png)
 
 ---
 
